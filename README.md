@@ -43,8 +43,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:
-### Register Number:
+### Name: KISHORE B
+### Register Number: 212223240073
 ```python
 class NeuralNet(nn.Module):
     def __init__(self):
